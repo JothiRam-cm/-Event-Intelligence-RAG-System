@@ -6,6 +6,7 @@ langchain-community
 langchain-core
 langchain-text-splitters
 langchain_google_genai
+langchain_huggingface
 
 langchain-chroma
 chromadb
@@ -15,4 +16,5 @@ python-dotenv
 tqdm
 
 streamlit
+
 
